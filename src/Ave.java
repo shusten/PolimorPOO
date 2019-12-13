@@ -21,5 +21,11 @@ public class Ave extends Animal {
 
     }
 
+    public String getCorPena() {
+        return corPena;
+    }
 
+    public void setCorPena(String corPena) {
+        this.corPena = corPena;
+    }
 }
