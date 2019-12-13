@@ -8,8 +8,10 @@ public class Main {
 //        p.locomover();
 //        r.locomover();
 //        a.locomover();
-
-        Cabguru c = new Cabguru();
+        Cachorro k = new Cachorro();
+        Canguru c = new Canguru();
         c.locomover();
+        k.locomover();
+        k.emitirSom();
     }
 }
