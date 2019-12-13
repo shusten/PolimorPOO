@@ -5,5 +5,8 @@ public class Main {
         Peixe p = new Peixe();
         Ave a = new Ave();
 
+        p.locomover();
+        r.locomover();
+        a.locomover();
     }
 }
