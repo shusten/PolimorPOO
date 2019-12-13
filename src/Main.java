@@ -5,8 +5,11 @@ public class Main {
         Peixe p = new Peixe();
         Ave a = new Ave();
 
-        p.locomover();
-        r.locomover();
-        a.locomover();
+//        p.locomover();
+//        r.locomover();
+//        a.locomover();
+
+        Cabguru c = new Cabguru();
+        c.locomover();
     }
 }
